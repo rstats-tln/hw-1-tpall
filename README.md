@@ -2,7 +2,7 @@
 
 The goal of this homework is to learn using ggplot2, how to map variables to aes(thetics) and also, importantly, how to work with Github.
 
-1. Open this repository in RStudio Cloud or clone to your local RStudio. 
+1. Open this repository in RStudio Cloud (New Project from Git Repo) or in your local RStudio (New Project > Version Control > Git). 
 
 2. Complete the exercises in index.Rmd file.
 
